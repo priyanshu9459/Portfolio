@@ -1,8 +1,7 @@
 # My Developer Portfolio
 
-[Demo]()
+[Demo](https://priyanshusngh.netlify.app/)
 
-![image]()
 
 
 Welcome to my personal developer portfolio! This project serves as a showcase for my skills, projects, and experiences.
@@ -20,7 +19,7 @@ Welcome to my personal developer portfolio! This project serves as a showcase fo
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/priyanshusingh9459/Portfolio.git
+git clone https://github.com/priyanshu9459/Portfolio.git
 ```
 
 ## 2. Navigate to the Project
@@ -38,7 +37,7 @@ npm install
 ```bash
 npm run dev
 ```
-The portfolio will be available at http://localhost:5173/ by default.
+The portfolio will be available at http://localhost:5173/ (https://priyanshusngh.netlify.app/) by default.
 
 ## 5. Customize
 
