@@ -1,4 +1,4 @@
-# My Developer Portfolio
+# My Portfolio
 
 [Demo](https://priyanshusngh.netlify.app/)
 
