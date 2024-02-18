@@ -12,7 +12,7 @@ const projects = [
   {
     name: "Sales Management System",
     description:
-      "Engineered an intuitive web-based platform with HTML, CSS, and Javascript, jquery, enhancing interactivity and boosting user engagement. Specified and designed Sales Orders, optimizing the generation of Invoices and Quotations, resulting in a 20% increase in workflow efficiency.",
+      "Engineered an intuitive web-based platform with HTML, CSS, and Javascript, jquery, enhancing interactivity and boosting user engagement. Specified and designed Sales Orders, optimizing the generation of Invoices and Quotations.",
       stack: ["Javascript", "PHP", "MySQL", "jQuery", "Python", "CRON"],
     sourceCode: "https://github.com/priyanshu9459/Sales-Management.git",
     img: "/sales.jpeg",
